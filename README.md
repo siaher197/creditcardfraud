@@ -11,6 +11,7 @@ The last step before modelling is now to split the data intro train and test sam
 We will use the train dataset to train our models and then evaluate them of the test set :
 
  1.Logistic Regression
+
 Accuracy Logit: 0.9459459459459459
 Precision Logit: 0.9509803921568627
 Recall Logit: 0.8981481481481481
@@ -40,6 +41,8 @@ Classification metrics for SVM (rounded down) :
 •	AUC : 0.97
 
 3. Ensemble learning : Bagging (Random Forest)
+
+
 Train the model, predict, score
 Accuracy RF: 0.9425675675675675
 Precision RF: 0.9690721649484536
